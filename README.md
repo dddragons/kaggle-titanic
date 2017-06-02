@@ -1,4 +1,4 @@
-## Welcome to Drexel Dragon Squad on Kaggle Titanic 
+## Welcome to Drexel Data Dragon Squad on Kaggle Titanic 
 
 You can use the [editor on GitHub](https://github.com/ya45/kaggle-titanic/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
