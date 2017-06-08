@@ -4,7 +4,7 @@ We begin with the Kaggle competition [Titanic Survival Prediction](https://www.k
 
 Members in this squad will follow the Python tutorials to submit their own solutions first time. 
 
-### Common Commands for Creating the README.md File
+## Common Commands for Creating the README.md File
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
