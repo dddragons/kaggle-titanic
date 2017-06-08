@@ -1,6 +1,10 @@
 ## Welcome to Drexel Data Dragon Squad on Kaggle Titanic 
 
-You can use the [editor on GitHub](https://github.com/ya45/kaggle-titanic/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We begin with the Kaggle competition [Titanic Survival Prediction](https://www.kaggle.com/c/titanic) to enter into other Kaggle competitions. 
+
+Members in this squad will follow the Python tutorials to submit their own solutions first time. 
+
+### Common Commands for Creating the README.md File
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
